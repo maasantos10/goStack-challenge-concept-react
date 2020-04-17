@@ -2,7 +2,7 @@
 
    <h2># goStack-challenge-concept ReactJs </h2> 
 </h4>
-<img width="50%" heidth="50%" src="https://github.com/maasantos10/goStack-challenge-concept-react/blob/master/assets/images/React.js_logo-512.png">
+<img width="20%" heidth="20%" src="https://github.com/maasantos10/goStack-challenge-concept-react/blob/master/assets/images/React.js_logo-512.png">
 
 
 React Js frontend concepts.
