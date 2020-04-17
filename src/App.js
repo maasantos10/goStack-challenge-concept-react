@@ -5,7 +5,7 @@
  * Description: This project aims to show the concepts
  * and techniques presented and learned in the interface
  * ReactJS training.
- * File: app.js
+ * File: App.js
  * https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-conceitos-nodejs
  */
 
